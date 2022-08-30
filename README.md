@@ -4,4 +4,4 @@ I am currently looking for Flutter developer jobs (remote or near Toronto). I re
 
 I was a university lecturer who taught cognitive psychology for 10+ years. While my primary duties might be conducting research and teaching classes, I often coded. The codes and demos below showcase my programming skills, which greatly facilitated my research and teaching duties.
 
-You can view my [resume here](https://louiskhchan.github.io/LouisChan_Resume.docx).
+You can view my [resume here](https://louiskhchan.github.io/louiskhchan/LouisChan_Resume.docx).
